@@ -24,4 +24,8 @@
   ===
  1. 原理介绍  
  对音乐片段与片段之间的相似度进行计算，使用相似函数  
-![相似函数](https://github.com/multimedia-application-course/2020-35-MixedVedio/blob/master/Similar.png)
+![相似函数](https://github.com/multimedia-application-course/2020-35-MixedVedio/blob/master/Similar.png)  
+这主要是因为歌曲由12个基本音符的帧的集合而组成，v1和v2是任意两段音乐的音符矢量，如果说两段音乐非常相似，那么右边的式子将接近于0. 如果说 1-右边的式子 得分非常高，则说明两段音乐非常相似。  
+2. 使用  
+`pip install pychorus`
+然后使用ExtractHigh.py即可
