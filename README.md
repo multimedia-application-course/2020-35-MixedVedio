@@ -16,5 +16,8 @@
     1.2 解压好下载的ZIP文件到指定目录（任意你喜欢的目录下）  
     1.3 将解压后的文件目录中bin目录（包含ffmpeg.exe）添加进path环境变量中  
     1.4 打开命令提示符（cmd），安装pydub：  
-   ` pip install pydub `
+   ` pip install pydub `  
+  2. 使用Trans2Vedio.py 代码  
+  3. ffpeg支持多种音频格式，具体请参考http://ffmpeg.org/ffplay.html
+   
   
