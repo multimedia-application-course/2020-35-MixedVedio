@@ -24,4 +24,4 @@
   ===
  1. 原理介绍  
  对音乐片段与片段之间的相似度进行计算，使用相似函数  
-![相似函数]https://github.com/multimedia-application-course/2020-35-MixedVedio/Similar.png
+![相似函数](https://github.com/multimedia-application-course/2020-35-MixedVedio/blob/master/Similar.png)
